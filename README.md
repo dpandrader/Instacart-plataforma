@@ -1,7 +1,7 @@
-Manipulación de datos
-Data Wrangling
+Proyecto – Manipulación de datos en Instacart (Data Wrangling)
 
+Objetivo del proyecto: “Analizar y limpiar datos de la plataforma Instacart para garantizar consistencia y confiabilidad en posteriores análisis de negocio, detectando y corrigiendo valores ausentes y duplicados.”
 
-Instacart es una plataforma de entregas de comestibles donde la clientela puede registrar un pedido y hacer que se lo entreguen, similar a Uber Eats y Door Dash. El conjunto de datos que te hemos proporcionado tiene modificaciones del original. Redujimos el tamaño del conjunto para que tus cálculos se hicieran más rápido e introdujimos valores ausentes y duplicados. Tuvimos cuidado de conservar las distribuciones de los datos originales cuando hicimos los cambios.
+Procedimientos: “Se trabajó con un dataset reducido y modificado intencionalmente para incluir inconsistencias. Se diseñó un proceso de limpieza en tres pasos: identificación y tratamiento de valores ausentes, detección y eliminación de duplicados, y verificación de la coherencia en la distribución de los datos. Cada paso fue documentado con justificación de las decisiones tomadas durante la manipulación de datos.”
 
-Debes completar tres pasos. Para cada uno de ellos, escribe una breve introducción que refleje con claridad cómo pretendes resolver cada paso, y escribe párrafos explicatorios que justifiquen tus decisiones al tiempo que avanzas en tu solución. También escribe una conclusión que resuma tus hallazgos y elecciones.
+Conclusiones: “Se logró depurar la base de datos manteniendo las distribuciones originales, garantizando así que los análisis futuros conserven representatividad y calidad. El proyecto permitió aplicar técnicas de data wrangling en un contexto realista, asegurando que los resultados fueran confiables y escalables para la toma de decisiones en Instacart.”
